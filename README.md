@@ -1,5 +1,9 @@
 # liri-node-app
 
+BUILDING LIRI:
+
+ LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and Recognition Interface, LIRI is a _Language_ Interpretation and Recognition Interface. LIRI will be a command line node app that takes in parameters and gives you back data.
+
 In the terminal you have 4 command options as the end user to choose from: 
     1. "movie-this"
     2. "concert-this"
